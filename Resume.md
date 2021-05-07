@@ -1,5 +1,5 @@
  <center>
-     <h1>冀恩_Java开发工程师_5年</h1>
+     <h1>冀恩_Java研发工程师</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
@@ -7,16 +7,18 @@
          </span>
          ·
          <span>
-             <img src="assets/envelope-solid.svg" width="18px">
-             1163511175@qq.com
-         </span>
-         ·
-         <span>
              <img src="assets/wechat.svg" width="18px">
              1163511175
          </span>
+         ·
+         <span>
+             <img src="assets/envelope-solid.svg" width="18px">
+             1163511175@qq.com
+         </span>
      </div>
  </center>
+
+
 
 
 
@@ -29,18 +31,37 @@
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
 - 本科，新疆塔里木大学，农业电气化及自动化，2011.9~2015.06
-- 通过 CET4 英语等级考试
+- CET4
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- **中软国际有限公司，华为业务线，Java研发工程师，2015.8~2017.11**
+- **上海华峰创享互联网科技有限公司，Java高级研发工程师， 2019.09~2020.10**
 
-   负责小型网管Web化和U2000 SSP接入后台开发工作
-- **浙江卓锐科技西安分公司，Droreone小组，Java研发工程师，2018.1至今**
+   负载工业物联网标识解析平台整体架构、运维工作
+   
+- **浙江卓锐科技西安分公司，Java研发工程师，2017.10~2019.09**
 
    负责卓锐第二代景区管理控制平台开发和卓锐SaaS云平台开发工作
+   
+- **中软国际有限公司，Java研发工程师，2015.08~2017.08**
+
+   负责小型网管Web化和U2000 SSP接入后台开发工作
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
+
+- **华峰工业物联网标识解析平台**
+
+  *技术选型：Kubernetes+Spring Boot+Kafka+Redis+Postgres+Ceph+EFK+Prometheus*
+
+  负责模块：
+
+  1 需求分析，技术选型
+
+  2 搭建项目整体框架
+
+  3 DevOps方案落地（Kubernetes + GitLab CI/CD + DingTalkBot）
+
+  4 产品部署、运维，文档输出
 
 - **Drore SaaS云平台项目**
 
@@ -59,7 +80,7 @@
   5 通过GitLab提供的Travis CI工具，推进产品DevOps转型，完成产品的CI/CD自动化
   
   6 引入集成Swagger Codegen模块，自动生成项目客户端代码
-  
+
 - **Drore智慧景区管控平台项目**
 
   *技术选型：Linux+自研Web框架+Postgres*
@@ -87,21 +108,9 @@
   2 维护产品的设备通信和消息队列模块，负责网管管理命令的下发，响应的的解析处理，以及通信连接（http/https，SSH, Telnet）的建立及维持
   
   3 处理修复产品测试和线上Bug，支撑产品版本发布和一线运维
-  
-- **小型网管Web化项目**
-
-  *技术选型：Linux+SpringMVC+Tomcat+Mybaits+Mysql*
-
-  *负责模块：*
-  
-  1 参与项目框架搭建，Mybatis集成，用户登录，ONT管理，设备状态统计，OLT端口状态统计展示等
-  
-  2 通信模块，网管管理命令下发，响应解析，异常处理
-  
-  3 产品部署运维，异常定位、排查，现场部署支撑
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- ★★★ Java集合框架，Java多线程，Java并发，SpringMVC，Spring Boot，Linux，Docker，Kubernetes，Swagger(OAS)，Git，Maven，Travis CI
-- ★★☆ Postgresql，Mysql，Mybatis，Jetty，Nginx, Tomcat，TCP/IP协议，Flutter, Markdown
-- ★☆☆ ZooKeeper，Kafka，Netty，Mina
+- ★★★★☆ Java，Spring Boot，Kubernetes，Linux，Docker，Swagger(OAS)，GitLab-CI，Maven
+- ★★★☆☆ Postgresql，Citus，ClickHouse， EFK，Ceph，Mysql，Mybatis，Nginx, Tomcat，TCP/IP协议，Kafka
+- ★★☆☆☆ Redis，Prometheus, Python，Rust，Markdown

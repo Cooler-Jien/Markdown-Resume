@@ -30,7 +30,7 @@
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 本科，新疆塔里木大学，农业电气化及自动化，2011.9~2015.06
+- 本科，新疆塔里木大学，农业电气化及自动化，2011.09~2015.06
 - CET4
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
@@ -51,7 +51,7 @@
 
 - **华峰工业物联网标识解析平台**
 
-  *技术选型：Kubernetes+Spring Boot+Kafka+Redis+Postgres+Ceph+EFK+Prometheus*
+  *技术选型：Kubernetes+Spring Boot+Kafka+Redis+PostgreSQL+Ceph+EFK+Prometheus*
 
   负责模块：
 
@@ -65,7 +65,7 @@
 
 - **Drore SaaS云平台项目**
 
-  *技术选型：k8s+Spring Boot+Postgres+Redis*
+  *技术选型：k8s+Spring Boot+PostgreSQL+Redis*
 
   *负责模块：*
   
@@ -77,19 +77,19 @@
   
   4 搭建k8s集群，编写k8s配置文件，部署和管理公司SaaS服务
   
-  5 通过GitLab提供的Travis CI工具，推进产品DevOps转型，完成产品的CI/CD自动化
+  5 通过GitLab CI/CD工具，推进产品DevOps转型，完成产品的CI/CD自动化
   
   6 引入集成Swagger Codegen模块，自动生成项目客户端代码
 
 - **Drore智慧景区管控平台项目**
 
-  *技术选型：Linux+自研Web框架+Postgres*
+  *技术选型：Linux+自研Web框架+PostgreSQL
 
   *负责模块：*
   
   1 设备管理模块，负责管控中各种设备（摄像头，WIFI，广播，GPS等）的管理功能
   
-  2 GIS模块，负责Postgres集成Postgis和Pgrouting插件，编写GIS中寻路模块，距离计算，位置判断等各种相关函数
+  2 GIS模块，负责PostgreSQL集成PostGIS和pgRouting插件，编写GIS中寻路模块，距离计算，位置判断等各种相关函数
   
   3 用户管理模块，负责基于RBAC模式的用户登录和鉴权
   
@@ -99,7 +99,7 @@
   
 - **U2000网管接入SSP(Smart Service Provider)项目**
 
-  *技术选型：Linux/Windows+SpringMVC+Netty+Mybaits+Mysql*
+  *技术选型：Linux/Windows+SpringMVC+Netty+MyBatis+MySQL*
 
   *负责模块：*
   
@@ -108,9 +108,21 @@
   2 维护产品的设备通信和消息队列模块，负责网管管理命令的下发，响应的的解析处理，以及通信连接（http/https，SSH, Telnet）的建立及维持
   
   3 处理修复产品测试和线上Bug，支撑产品版本发布和一线运维
+  
+- **小型网管Web化项目**
+
+  *技术选型：Linux+SpringMVC+Tomcat+MyBatis+MySQL*
+
+  *负责模块：*
+
+  1 参与项目框架搭建，MyBatis集成，用户登录，ONT管理，设备状态统计，OLT端口状态统计展示等
+
+  2 通信模块，网管管理命令下发，响应解析，异常处理
+
+  3 产品部署运维，异常定位、排查，现场部署支撑
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- ★★★★☆ Java，Spring Boot，Kubernetes，Linux，Docker，Swagger(OAS)，GitLab-CI，Maven
-- ★★★☆☆ Postgresql，Citus，ClickHouse， EFK，Ceph，Mysql，Mybatis，Nginx, Tomcat，TCP/IP协议，Kafka
-- ★★☆☆☆ Redis，Prometheus, Python，Rust，Markdown
+- ★★★★☆ Java，Spring Boot，Kubernetes，Linux，Docker，Swagger(OAS)，GitLab CI/CD，Maven
+- ★★★☆☆ PostgreSQL，Citus，ClickHouse， EFK，Ceph，MySQL，MyBatis，Nginx, Tomcat，TCP/IP协议，Kafka
+- ★★☆☆☆ Redis，Prometheus, Python，Rust，PostGIS，Markdown

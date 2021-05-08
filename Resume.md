@@ -24,7 +24,7 @@
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 生日：1991年6月
+ - 生日：1991.06
  - 求职意向：Java 研发工程师
  - 工作经验：5 年
 

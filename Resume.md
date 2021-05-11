@@ -26,7 +26,7 @@
 
  - 生日：1991.06
  - 求职意向：Java 研发工程师
- - 工作经验：5 年
+ - 工作经验：6 年
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
@@ -34,6 +34,9 @@
 - CET4
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
+
+- **自主创业-金融数据分析，2020.10至今**
+   负责全部工作
 
 - **上海华峰创享互联网科技有限公司，Java高级研发工程师， 2019.09~2020.10**
 
@@ -48,7 +51,14 @@
    负责小型网管Web化和U2000 SSP接入后台开发工作
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
-
+- **金融数据分析平台（自主创业）**
+  
+  *技术选型：Spring Boot+PostgreSQL(Citus)+ClickHouse+Docker+GitLab CI/CD*
+  
+  负责模块：
+  
+  全部编码工作
+  
 - **华峰工业物联网标识解析平台**
 
   *技术选型：Kubernetes+Spring Boot+Kafka+Redis+PostgreSQL+Ceph+EFK+Prometheus*

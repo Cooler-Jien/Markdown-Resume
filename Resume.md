@@ -26,7 +26,7 @@
 
  - 生日：1991.06
  - 求职意向：Java 研发工程师
- - 工作经验：6 年
+ - 工作经验：7 年
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
@@ -35,29 +35,45 @@
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- **自主创业-金融数据分析，2020.10至今**
-   负责全部工作
+- **树根互联，Java高级研发工程师，2021.06至今**
+   负责小树智能问答产品、设备在线管理系统后台开发工作
 
-- **上海华峰创享互联网科技有限公司，Java高级研发工程师， 2019.09~2020.10**
+- **上海华峰创享互联网科技有限公司，Java高级研发工程师， 2019.09~2021.05**
 
    负责工业物联网标识解析平台整体架构、运维工作
    
 - **浙江卓锐科技西安分公司，Java研发工程师，2017.10~2019.09**
 
-   负责卓锐第二代景区管理控制平台开发和卓锐SaaS云平台开发工作
+   负责卓锐景区管理控制平台开发和卓锐SaaS云平台开发工作
    
 - **中软国际有限公司，Java研发工程师，2015.08~2017.08**
 
    负责小型网管Web化和U2000 SSP接入后台开发工作
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
-- **金融数据分析平台（自主创业）**
+- **新疆派特罗尔设备在线管理系统**
   
-  *技术选型：Spring Boot+PostgreSQL(Citus)+ClickHouse+Docker+GitLab CI/CD*
+  *技术选型：应用大师+Spring Boot+MybatisPlus+MySQL+Kubernetes(Kuboard)*
   
   负责模块：
   
-  全部编码工作
+  1 使用低代码平台搭建用户界面，实现设备管理、工单管理等业务逻辑
+  
+  2 基于Spring Boot技术方框架建、开发后台服务，负责定时任务、工单流程处理、APP端API等业务模块
+  
+  3 项目日常管理，主要负责需求澄清、任务拆分、人员安排等
+  
+- **小树智能问答产品**
+  
+  *技术选型：Spring Boot+MybatisPlus+MySQL+Elastic+Kubernetes(灵雀云)*
+  
+  负责模块：
+  
+  1 用户输入智能检索、提示模块开发
+  
+  2 智能问答系统语料输入模块开发
+  
+  3 智能问答多轮对话变量解析、逻辑控制
   
 - **华峰工业物联网标识解析平台**
 
@@ -69,7 +85,7 @@
 
   2 搭建项目整体框架
 
-  3 DevOps方案落地（Kubernetes + GitLab CI/CD + DingTalkBot）
+  3 DevOps方案落地(Kubernetes + GitLab CI/CD + DingTalkBot)
 
   4 产品部署、运维，文档输出
 

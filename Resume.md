@@ -35,8 +35,8 @@
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- **树根互联，Java高级研发工程师，2021.06至今**
-   负责小树智能问答产品、设备在线管理系统后台开发工作
+- **树根互联，Java高级研发工程师，2021.06~2023.04**
+   负责小树智能问答产品、矿井设备在线管理系统后台开发工作
 
 - **上海华峰创享互联网科技有限公司，Java高级研发工程师， 2019.09~2021.05**
 
@@ -149,6 +149,6 @@
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- ★★★★☆ Java，Spring Boot，Kubernetes，Linux，Docker，Swagger(OAS)，GitLab CI/CD，Maven
+- ★★★★☆ Java，Spring Boot，Kubernetes，Linux，Docker，Swagger(OAS)，GitLab CI/CD，Maven，XXL-Job
 - ★★★☆☆ PostgreSQL，Citus，ClickHouse， EFK，Ceph，MySQL，MyBatis，Nginx, Tomcat，TCP/IP协议，Kafka
 - ★★☆☆☆ Redis，Prometheus, Python，Rust，PostGIS，Markdown

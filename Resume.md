@@ -35,8 +35,8 @@
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- **自研量化交易系统开发，2023.04~2025.06**
-   独自使用Java开发基于震荡行情获利的量化交易系统
+- **CoolerFintec量化交易系统开发，2023.04~2026.03**
+   使用Java开发量化交易系统
 
 - **树根互联，Java高级研发工程师，2021.06~2023.04**
    负责小树智能问答产品、矿井设备在线管理系统后台开发工作
@@ -54,7 +54,7 @@
    负责小型网管Web化和U2000 SSP接入后台开发工作
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
-- **自研量化交易系统**
+- **量化交易系统CoolerFintec开发**
   
   *技术选型：Spring Boot+Vue+MybatisPlus+PostgreSQL+Docker*
   
@@ -62,11 +62,13 @@
   
   1 基金、股票、期货行情数据拉取，存储方案设计、迭代、优化
   
-  2 交易接口对接，策略开发、风控模块开发
+  2 基于Java 25 Foreign Function and Memory API对接CTP SDK
   
-  3 前端页面开发
+  3 交易接口对接，策略开发、风控模块开发
   
-  4 产品部署实施，本地+阿里云
+  4 前端页面开发
+  
+  5 产品部署实施，本地+阿里云
   
 - **新疆派特罗尔设备在线管理系统&三一风场设备在线管理系统**
   

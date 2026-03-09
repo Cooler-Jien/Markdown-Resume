@@ -26,7 +26,7 @@
 
  - 生日：1991.06
  - 求职意向：Java 研发工程师
- - 工作经验：8 年
+ - 工作经验：10 年
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
